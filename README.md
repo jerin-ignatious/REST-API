@@ -9,4 +9,5 @@ An API designed using nodeJs, expressJs and mongoDB that handles the following o
 >5. Delete
 
 on the schema defined in ```models/subscriber.js```
+
 ---
