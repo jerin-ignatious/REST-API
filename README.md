@@ -1,6 +1,6 @@
 # REST-API
 
-An API designed using nodeJs, expressJs and mongoDB that handles the following operations:
+An API designed using nodeJs, expressJs and mongoDB that has routes for the following operations:
 
 >1. Get
 >2. Get all
